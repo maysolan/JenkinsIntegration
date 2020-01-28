@@ -10,7 +10,7 @@ public class TC001{
 	@BeforeMethod
 	public void btest(){
 		
-		System.out.println("This is Before Test case-11");
+		System.out.println("This is Before Test case-1Edit");
 	}
 	
 	@Test
